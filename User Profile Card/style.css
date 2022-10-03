@@ -1,0 +1,116 @@
+/* here we give style to hole page*/
+*{margin:0;
+ padding:0;
+ box-sizing: border-box;
+ font-family: sans-serif;}
+ /* here we give style to container*/
+ .container{
+    width:100%;
+    height:100vh;
+    background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-036.jpg);
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+ }
+ /* here we give style to hole profile-box*/
+ .profile-box{
+    background:rgb(45, 156, 171);
+    text-align: center;
+    padding:40px 90px;
+    color:#fff;
+    position: relative;
+    border-radius:20px;
+ }
+ /* here we give style to menu-icon*/
+ .menu-icon{
+    width:25px;
+    position: absolute;
+    left:40px;
+    top:40px;
+    cursor:pointer;
+ }
+/* here we give style to setting-icon*/
+ .setting-icon{
+    width:25px;
+    position: absolute;
+    right:40px;
+    top:40px;
+    cursor: pointer;
+ }
+/* here we give style to profile-icon*/
+ .profile-icon{
+    width:150px;
+    border-radius:50%;
+    background:#fff;
+    padding:6px;
+    margin-top: 40px;
+
+ }
+ /* here we give style to profile-bottom*/
+ .profile-bottom{
+    background:#fff;
+    color:#999;
+    padding:60px 0;
+    margin-right: -90px ;
+    margin-left:-90px ;   
+    margin-bottom:-40px ;
+    border-radius:20px;
+    margin-top:-10px;
+ }
+ /* here we give style to profile-bottom in image*/
+ .profile-bottom img{
+    width:15px;
+    margin-top:15px;
+    cursor: pointer;
+ }
+
+ /* here we give style to profile-box in button*/
+
+.profile-box button{
+    background:#fff;
+    color:#cd43f3;
+    border:none;
+    cursor:pointer;
+    outline:none;
+    box-shadow: 0 5px 10px rgba(244, 67, 54, 0.5 );
+    padding:15px 60px;
+    border-radius:30px;
+    margin-bottom:-50px;
+    font-weight: 600px;
+    font-size:16px;
+}
+/* here we give style to profile-box in heading*/
+.profile-box h3{
+   font-size:22px;
+   margin-top:20px;
+   font-weight: 500;
+}
+/* here we give style to social-media image*/
+.social-media img{
+   width:20px;
+   margin:30px 5px;
+   cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
